@@ -2,6 +2,7 @@ This program is designed to monitor and adjust product prices to stay competitiv
 It checks prices listed by other sellers for the same products and, if a competitor's price is higher than a set minimum, the program reduces its own price to remain lower. 
 This approach allows the business to stay more attractive to buyers by always offering a slightly lower price than competitors without dropping below a specified threshold.
 
+![Screenshot](https://github.com/parserKASPI/blob/main/Screenshot_232.png)
 
 Here's how the program works:
 
